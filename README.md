@@ -117,9 +117,47 @@ ServiceEasePlatform/
 
 ## 📸 Screenshots & Demo
 
-- ![Login Page](docs/screenshots/login_page.png)
-- ![Dashboard](docs/screenshots/dashboard.png)
-- ![Service Booking](docs/screenshots/booking.png)
+### 🔹 Authentication
+- **Sign-Up Interface**  
+  ![Sign Up](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/Sign-Up%20Interface.png)  
+
+- **Login Interface**  
+  ![Login](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/Login%20Interface.png)  
+
+---
+
+### 🔹 Service Provider Interfaces
+- **Total Bookings View**  
+  ![ServiceProvider TotalBookings](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/ServicesProvider%20TotalBooking%20Interface.png)  
+
+- **Profile Management**  
+  ![ServiceProvider Profile](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/ServicesProvider%20Profile%20Interface.png)  
+
+- **Dashboard**  
+  ![ServiceProvider Dashboard](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/ServicesProvider%20Dashboard.png)  
+
+- **Manage Services**  
+  ![Service Management](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/ServicesManage%20Interface.png)  
+
+---
+
+### 🔹 Customer Interfaces
+- **Customer Profile**  
+  ![Customer Profile](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/CustomerProfile%20Interface.png)  
+
+- **Payment Gateway**  
+  ![Customer Payment](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/CustomerPaymentGateway%20Interafce.png)  
+
+- **Browse & Book Services**  
+  ![Customer Interface](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/CustomerInterface.png)  
+
+- **Customer Dashboard**  
+  ![Customer Dashboard](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/CustomerDashboard.png)  
+
+---
+
+📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
+
 
 📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
 📊 **ERD & EERD Diagrams:** [View Diagrams](docs/erd.drawio)
