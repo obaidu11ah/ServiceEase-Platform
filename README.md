@@ -87,7 +87,7 @@ Developed using **Java Swing (WindowBuilder, Eclipse IDE)** with **Microsoft SQL
 - **Backup & Recovery Strategy:**  
   A **full database backup** was created to ensure data safety and point-in-time recovery in case of failure.  
 
-  ### 🔹 Configuring Recovery Model (SSMS GUI)
+ 🔹 Configuring Recovery Model (SSMS GUI)
   1. Open **SQL Server Management Studio (SSMS)**  
   2. In **Object Explorer**, expand the **Databases** node  
   3. Right-click on the **ServiceEase** database and select **Properties**  
