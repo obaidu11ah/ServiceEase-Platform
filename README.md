@@ -119,7 +119,8 @@ ServiceEasePlatform/
 
 📹 **Live Demo Video**  
 Experience the application in action by watching our complete walkthrough:  
-▶️ [▶ Watch on Google Drive](https://drive.google.com/file/d/1SRR5nNayABpdMwgoBNYP1KZMiyRwt39W/view?usp=sharing)
+
+▶️ [ Watch on Google Drive](https://drive.google.com/file/d/1SRR5nNayABpdMwgoBNYP1KZMiyRwt39W/view?usp=sharing)
 
 
 ## 📚 Documentation 
