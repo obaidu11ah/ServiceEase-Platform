@@ -117,7 +117,10 @@ ServiceEasePlatform/
 
 ## 📸 Screenshots & Demo
 
-📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
+📹 **Live Demo Video**  
+Experience the application in action by watching our complete walkthrough:  
+▶️ [▶ Watch on Google Drive](https://drive.google.com/file/d/1SRR5nNayABpdMwgoBNYP1KZMiyRwt39W/view?usp=sharing)
+
 
 ## 📚 Documentation 
 
@@ -130,7 +133,7 @@ The documents are handwritten and available in the [`/docs`](https://github.com/
 | **Detail Report**                | [View Report.pdf](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ServiceEase-A-Service-Provider-Platform%20Report.pdf)                |
 
 ---
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Authentication
 - **Sign-Up Interface**  
