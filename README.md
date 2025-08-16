@@ -33,60 +33,28 @@ Developed using **Java Swing (WindowBuilder, Eclipse IDE)** with **Microsoft SQL
 
 ---
 
-## 📌 Use Cases
-
-- A homeowner booking a plumber to fix a leakage
-- A student hiring a math tutor for weekend classes
-- An individual booking a makeup artist for a wedding
-- A company hiring an event manager for a conference
-
----
-
-## 📌 Advantages
-
-- Centralized service hub
-- Time-saving, user-friendly interface
-- Enhanced trust via **verified profiles & reviews**
-- Audit trail for accountability
-
----
-
-## ⚠️ Potential Challenges
-
-- Verifying authenticity of service providers
-- Handling disputes between users & providers
-- Scalability for large user base
-
----
 ## 🛠️ Tech Stack
 
 - **Programming Language:**  
   Java (Swing, WindowBuilder, Eclipse IDE)
-
 - **Database:**  
-  Microsoft SQL Server (SSMS)
-
+  Microsoft SQL Server (SSMS) 
 - **Database Connectivity:**  
   JDBC
-
 - **Security:**  
   - SHA-256 hashing with Salt  
   - Role-based authentication  
-
 - **SQL Features:**  
   - Triggers (Insert, Update, Delete → Audit Logging)  
   - Stored Procedures & Functions  
   - Non-clustered Indexes  
   - Concurrency Control using `SERIALIZABLE` + `UPDLOCK`  
-
 - **Libraries:**  
   - MigLayout (UI Layout)  
   - Timing Framework (Animations)  
   - MSSQL JDBC Driver  
-
 - **Backup & Recovery Strategy:**  
   A **full database backup** was created to ensure data safety and point-in-time recovery in case of failure.  
-
  🔹 Configuring Recovery Model (SSMS GUI)
   1. Open **SQL Server Management Studio (SSMS)**  
   2. In **Object Explorer**, expand the **Databases** node  
