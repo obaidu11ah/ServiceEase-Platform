@@ -52,7 +52,8 @@ Developed using **Java Swing (WindowBuilder, Eclipse IDE)** with **Microsoft SQL
 - **Libraries:**  
   - MigLayout (UI Layout)  
   - Timing Framework (Animations)  
-  - MSSQL JDBC Driver  
+  - MSSQL JDBC Driver
+  - 
 - **Backup & Recovery Strategy:**  
   A **full database backup** was created to ensure data safety and point-in-time recovery in case of failure.
   
