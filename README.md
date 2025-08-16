@@ -117,6 +117,21 @@ ServiceEasePlatform/
 
 ## 📸 Screenshots & Demo
 
+📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
+
+## 📚 Documentation 
+
+The documents are handwritten and available in the [`/docs`](https://github.com/obaidu11ah/ServiceEase-Platform/tree/main/docs) folder.
+
+| 📄 Document                      | 🔗 View / Download Link                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------------------|
+| **ERD**                          | [View ERD.html](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ERD.html)                                                          |
+| **EERD**                         | [View EERD.html](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/EERD.drawio%20.html)                                                     |
+| **Detail Report**                | [View Report.pdf](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ServiceEase-A-Service-Provider-Platform%20Report.pdf)                |
+
+---
+## 📸 Screenshots
+
 ### 🔹 Authentication
 - **Sign-Up Interface**  
   ![Sign Up](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/screenshots/Sign-Up%20Interface.png)  
@@ -156,20 +171,7 @@ ServiceEasePlatform/
 
 ---
 
-📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
 
-
-## 📚 Documentation 
-
-The documents are handwritten and available in the [`/docs`](https://github.com/obaidu11ah/ServiceEase-Platform/tree/main/docs) folder.
-
-| 📄 Document                      | 🔗 View / Download Link                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------------------|
-| **ERD**                          | [View ERD.draw.io](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ERD.drawio)                                                          |
-| **EERD**                         | [View EERD.draw.io](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/EERD%20.drawio)                                                     |
-| **Detail Report**                | [View Report.pdf](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ServiceEase-A-Service-Provider-Platform%20Report.docx)                |
-
----
 
 ## 🚀 Installation & Setup
 
