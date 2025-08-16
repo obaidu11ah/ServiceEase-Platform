@@ -58,26 +58,45 @@ Developed using **Java Swing (WindowBuilder, Eclipse IDE)** with **Microsoft SQL
 - Scalability for large user base
 
 ---
-
 ## 🛠️ Tech Stack
 
-- **Programming Language:** Java (Swing, WindowBuilder, Eclipse IDE)
-- **Database:** Microsoft SQL Server (SSMS)
-- **Database Connectivity:** JDBC
-- **Security:**
-  - SHA-256 hashing with Salt
-  - Role-based authentication
-- **SQL Features:**
-  - Triggers (Insert, Update, Delete → Audit Logging)
-  - Stored Procedures & Functions
-  - Non-clustered Indexes
-  - Concurrency Control using `SERIALIZABLE` + `UPDLOCK`
-- **Libraries:**
-  - MigLayout (UI Layout)
-  - Timing Framework (Animations)
-  - MSSQL JDBC Driver
+- **Programming Language:**  
+  Java (Swing, WindowBuilder, Eclipse IDE)
 
----
+- **Database:**  
+  Microsoft SQL Server (SSMS)
+
+- **Database Connectivity:**  
+  JDBC
+
+- **Security:**  
+  - SHA-256 hashing with Salt  
+  - Role-based authentication  
+
+- **SQL Features:**  
+  - Triggers (Insert, Update, Delete → Audit Logging)  
+  - Stored Procedures & Functions  
+  - Non-clustered Indexes  
+  - Concurrency Control using `SERIALIZABLE` + `UPDLOCK`  
+
+- **Libraries:**  
+  - MigLayout (UI Layout)  
+  - Timing Framework (Animations)  
+  - MSSQL JDBC Driver  
+
+- **Backup & Recovery Strategy:**  
+  A **full database backup** was created to ensure data safety and point-in-time recovery in case of failure.  
+
+  ### 🔹 Configuring Recovery Model (SSMS GUI)
+  1. Open **SQL Server Management Studio (SSMS)**  
+  2. In **Object Explorer**, expand the **Databases** node  
+  3. Right-click on the **ServiceEase** database and select **Properties**  
+  4. In the Database Properties window, click on the **Options** tab  
+  5. Locate the **Recovery Model** drop-down menu  
+  6. Select the desired recovery model — typically:  
+     - **Simple** → for basic recovery without log backups  
+     - **Full** → for point-in-time recovery with transaction log backups  
+
 
 ## 📂 Folder Structure
 ```
