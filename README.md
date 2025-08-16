@@ -54,7 +54,8 @@ Developed using **Java Swing (WindowBuilder, Eclipse IDE)** with **Microsoft SQL
   - Timing Framework (Animations)  
   - MSSQL JDBC Driver  
 - **Backup & Recovery Strategy:**  
-  A **full database backup** was created to ensure data safety and point-in-time recovery in case of failure.  
+  A **full database backup** was created to ensure data safety and point-in-time recovery in case of failure.
+  
  🔹 Configuring Recovery Model (SSMS GUI)
   1. Open **SQL Server Management Studio (SSMS)**  
   2. In **Object Explorer**, expand the **Databases** node  
