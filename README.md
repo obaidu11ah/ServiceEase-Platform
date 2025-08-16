@@ -194,11 +194,18 @@ The documents are handwritten and available in the [`/docs`](https://github.com/
 
 ```
 
-📜 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/LICENSE) file for details.
 
-👨‍💻 Author
+## 🙏 Acknowledgements
+- Java Swing & WindowBuilder
+- Microsoft SQL Server
+- MigLayout & Timing Framework
+- ChatGpt 
 
-Obaid Ullah
-🔗 GitHub
+## 📬 Contact
+**Obaid Ullah**  
+📧 Email: obaidullah2956@gmail.com  
+🔗 GitHub: [@obaidu11ah](https://github.com/obaidu11ah)  
+🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/obaid-ullah-381791266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
