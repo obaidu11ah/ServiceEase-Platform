@@ -159,8 +159,15 @@ ServiceEasePlatform/
 📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
 
 
-📹 **Live Demo Video:** [Google Drive Link](https://drive.google.com/your-demo-link) *(to be added)*  
-📊 **ERD & EERD Diagrams:** [View Diagrams](docs/erd.drawio)
+## 📚 Documentation 
+
+The documents are handwritten and available in the [`/docs`](https://github.com/obaidu11ah/ServiceEase-Platform/tree/main/docs) folder.
+
+| 📄 Document                      | 🔗 View / Download Link                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------------------|
+| **ERD**                          | [View ERD.draw.io](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ERD.drawio)                                                          |
+| **EERD**                         | [View EERD.draw.io](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/EERD%20.drawio)                                                     |
+| **Detail Report**                | [View Report.pdf](https://github.com/obaidu11ah/ServiceEase-Platform/blob/main/docs/user_guide/ServiceEase-A-Service-Provider-Platform%20Report.docx)                |
 
 ---
 
