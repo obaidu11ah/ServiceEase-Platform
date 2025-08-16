@@ -208,4 +208,4 @@ This project is licensed under the MIT License – see the [LICENSE](https://git
 **Obaid Ullah**  
 📧 Email: obaidullah2956@gmail.com  
 🔗 GitHub: [@obaidu11ah](https://github.com/obaidu11ah)  
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/obaid-ullah-381791266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/obaid-ullah-381791266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
