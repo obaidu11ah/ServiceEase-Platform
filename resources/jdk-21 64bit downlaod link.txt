@@ -1,0 +1,2 @@
+
+Downlaod link: https://download.oracle.com/java/21/archive/jdk-21.0.7_windows-x64_bin.exe

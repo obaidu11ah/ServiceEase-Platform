@@ -1,0 +1,12 @@
+📄 Steps to Install WindowBuilder & Swing Designer from Eclipse Marketplace
+
+> Open Eclipse IDE.
+> Go to Help → Eclipse Marketplace.
+> In the search bar, type "WindowBuilder".
+> From the results, find WindowBuilder (includes Swing, SWT, XML support).
+> Click Install.
+> Select the components you need:
+> WindowBuilder Core
+> Swing Designer
+> Click Next → Accept License → Finish.
+> When installation completes, Restart Eclipse.
